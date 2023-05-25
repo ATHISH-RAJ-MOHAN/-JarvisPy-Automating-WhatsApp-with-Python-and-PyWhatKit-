@@ -89,7 +89,7 @@ if __name__=="__main__":
          speak(f" Sir, the time is{stTime}")
          
      elif 'open code' in query:
-        codePath="C:\\Users\\ATHISH\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+        codePath="C:\\Users\\yourname\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
         os.startfile(codePath)
      elif 'email to baby' in query:
         try:
